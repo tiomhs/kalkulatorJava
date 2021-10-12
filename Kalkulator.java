@@ -38,19 +38,7 @@ public class Kalkulator {
         } else {
             System.out.println("operator tidak ditemukan");
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+
     }
     
 }
